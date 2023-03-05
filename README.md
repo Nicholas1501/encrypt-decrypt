@@ -1,1 +1,1 @@
-# encrypt-decrypt
+This is a terminal-based text encryption and decryption program. After finishing it, I plan to code a user friendly application for it. For know, I will make it as user friendly as possible with terminal feedback.
