@@ -8,3 +8,4 @@ def test_ceaser():
     assert sourcecode.ceaser('A', 1, True) == 'Z'
     assert sourcecode.ceaser('ABC ABC', 1, False) == 'BCD BCD'
     assert sourcecode.ceaser('XYZ XYZ', 1, False) == 'YZA YZA'
+    assert sourcecode.ceaser('xyz xyz', 1, True) == 'wxy wxy'
